@@ -1,16 +1,3 @@
-
-<div align="center">
-
-# 🧢 Baseball Player Salary Prediction  
-### 🎯 Machine Learning Meets Sports Analytics ⚾
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/ibrahimongoren)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ibrahimongoren)
-
-</div>
-
----
-
 ## 📌 Project Overview
 
 This project presents a complete machine learning workflow to **predict the salaries of professional baseball players** based on performance, experience, and league-level metrics.

@@ -70,7 +70,7 @@ You can run the full notebook on Kaggle:
 ## 💼 Author
 
 **İbrahim Ongören**  
-📧 ibrahimongoren@gmail.com  
+📧 ongorenibrahim78@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimongoren)
 
 ---
